@@ -1,7 +1,10 @@
 - 👋 Hi, I’m @G-britto
-- 👀 I’m interested in Python, R, SQL and MongoDB
-- 🌱 I’m currently learning Python.
-- 💞️ I’m looking to collaborate on new Project. 
+
+Experienced Information Technology Specialist with a demonstrated history of working in information technology and infrastructure. Skilled in Cloud Computing, Big Data, BI, Cloud Architecture, and Data Engineering. Strong IT professional with a Degree in Systems Analysis and Development.
+
+Cloud Architect | Arquiteto de Soluções Cloud Azure | Engenharia de Dados | Data Engineer | 9x Azure | GCP | 3x AWS (Technical) | Cloud Computing
+
+- ⚙️ LinkedIn: www.linkedin.com/in/gustavobritto 
 - 📫 How to reach me gustavobrittoit@gmail.com
 
 <!---
