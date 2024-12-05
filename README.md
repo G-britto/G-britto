@@ -2,7 +2,6 @@
 
 Cloud Architect | Microsoft Azure Administrator | 9x Azure | Cloud Computing |
 
-Cloud Architect specialized in Microsoft Azure, with extensive experience designing and implementing scalable and secure cloud solutions. With a solid background in IT infrastructure and advanced cloud architecture skills, I help businesses transform their operations through cloud migration and optimization strategies.
 
 - ⚙️ LinkedIn: www.linkedin.com/in/gustavobritto 
 - 📫 How to reach me gustavobrittoit@gmail.com
