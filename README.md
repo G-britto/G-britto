@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @G-britto
 
-Cloud Architect | Arquiteto de Soluções Cloud Azure | Engenharia de Dados | Data Engineer | 9x Azure | GCP | 3x AWS (Technical) | Cloud Computing
+Cloud Architect | Microsoft Azure Administrator | 9x Azure | Cloud Computing |
 
-Experienced Information Technology Specialist with a demonstrated history of working in information technology and infrastructure. Skilled in Cloud Computing, Big Data, BI, Cloud Architecture, and Data Engineering. Strong IT professional with a Degree in Systems Analysis and Development.
+Cloud Architect specialized in Microsoft Azure, with extensive experience designing and implementing scalable and secure cloud solutions. With a solid background in IT infrastructure and advanced cloud architecture skills, I help businesses transform their operations through cloud migration and optimization strategies.
 
 - ⚙️ LinkedIn: www.linkedin.com/in/gustavobritto 
 - 📫 How to reach me gustavobrittoit@gmail.com
